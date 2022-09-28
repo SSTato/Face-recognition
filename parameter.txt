@@ -1,0 +1,2 @@
+ip:rtsp://admin:abc12345@192.168.1.71/Streaming/Channels/1
+threhold:0.9
