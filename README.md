@@ -8,8 +8,8 @@ Face detection and recognition, including face key point detection and correctio
 <details>
   <summary>图片识别效果 (click to expand)</summary>
 
-<p align="left"><img width="800" src="https://github.com/SSTato/Face-recognition/blob/master/imgout/obama.jpg"></p>
-<p align="left"><img width="800" src="https://github.com/SSTato/Face-recognition/blob/master/imgout/zhangxueyou.jpg"></p>
+<p align="left"><img width="800" src="https://github.com/SSTato/Face-recognition/blob/master/imgout/1.jpg"></p>
+<p align="left"><img width="800" src="https://github.com/SSTato/Face-recognition/blob/master/imgout/2.jpg"></p>
 
 </details>
 
